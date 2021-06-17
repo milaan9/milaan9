@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 
-- 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to Create insight from a data, visualization pretty cool huh !
+- 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
 - 👯 I’m looking to collaborate on Machine Learning and Data Mining Projects
 - 💬 Ask me about Machine Learning with Python(Pytorch, Tensorflow, Sckitlearn) and Matlab
 <!-- - 🌱 I’m currently learning React.
