@@ -14,10 +14,11 @@
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
 - 👯 I’m looking to collaborate on Machine Learning and Data Mining Projects
 - 💬 Ask me about Machine Learning with Python(Pytorch, Tensorflow, Sckitlearn) and Matlab
+- ⚡ Fun fact: Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! 
 <!-- - 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with Vuejs
 - 📫 How to reach me: [![LinkedIN](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/milaanparmar/)-->
-- ⚡ Fun fact: Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! 
+
 
 <!-- something 
 - 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
