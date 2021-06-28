@@ -69,9 +69,10 @@ src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" 
 ### GitHub Stats ⚡
 <!--
 ![Milaan's github stats](https://github-readme-stats.vercel.app/api?username=milaan9&count_private=true&show_icons=true&theme=tokyonight&hide-border=true)
--->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=milaan9&show_icons=true&theme=radical" alt="milaan9" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milaan9&layout=compact&hide=html&theme=radical" alt="milaan9" />
+-->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=milaan9&show_icons=true&theme=radical" alt="milaan9" />
 
 ---
 
