@@ -54,10 +54,16 @@
 ### Other Accounts 📫
 You can find and get touch with me on these accounts!
 
+[<img align="left" alt="LinkedIn" width="50px" 
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/) 
+[<img align="left" alt="Instagram" width="50px" 
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram"/>](https://www.instagram.com/milaanparmar9/)
+[<img align="left" alt="facebook" width="50px" 
+src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"/>](https://www.facebook.com/milaanparmar)
+[<img align="left" alt="Gmail" width="50px" 
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>](mailto:milaanparmar9@gmail.com)
 [<img align="left" alt="GitHub" width="50px" 
-src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" />](https://github.com/milaan9)   
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="28">](https://www.instagram.com/milaanparmar9/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook logo" width="28">](https://www.facebook.com/milaanparmar)
+src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9) 
 
 
 ### GitHub Stats ⚡
@@ -71,7 +77,8 @@ src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" 
 
 ### Connect with me 🤝
 
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/milaanparmar/)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/milaanparmar9/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/milaan9) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:milaanparmar9@gmail.com)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/milaanparmar/)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">]
+[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/milaan9) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:milaanparmar9@gmail.com)
 
 
 <!--
