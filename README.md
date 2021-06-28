@@ -35,9 +35,6 @@
 <br>
 <br>
 
-<div align="center">
-<h3> GitHub Stats 📈 </h3>
-</div>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
 
 <div align="center">
