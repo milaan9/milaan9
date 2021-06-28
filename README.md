@@ -14,7 +14,7 @@
 
 
 <div align="center">
-<h3> Languages and Tools: 🌐 <h3>
+<h3> Languages and Tools: 🌐 </h3>
 [<img align='left' alt='Python' width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](#)
 [<img align='left' alt='Matlab' width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/>](#)
 [<img align='left' alt='C' width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>](#)
