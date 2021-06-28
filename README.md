@@ -13,7 +13,6 @@
 [![gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailto:milaanparmar9@gmail.com) 
 
 
-
 ### Languages and Tools: 🌐
 [<img align='left' alt='Python' width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
 [<img align='left' alt='Matlab' width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/>]()
@@ -26,6 +25,13 @@
 <br>
 <br>
 <br>
+
+__Top open-source contributions:__
+
+Top | Contributions
+-- | --
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=AlgoCode)](https://github.com/pratik-choudhari/AlgoCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=docker-guide)](https://github.com/pratik-choudhari/docker-guide) |   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=StockNotify)](https://github.com/pratik-choudhari/StockNotify)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik-choudhari&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
 
