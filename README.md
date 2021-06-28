@@ -4,7 +4,7 @@
 
 ### Hi there 👋 
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
-- 👯 I’m looking to collaborate on **Machine Learning** and **Data Mining** Projects
+- 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** and **Data Mining**
 - 💬 Ask me about **Machine Learning** and **Data Science** with 🐍 Python (Pytorch, Tensorflow, Sckitlearn) and Matlab
 - ⚡ Fun fact: I'm Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! 
 - 📫 How to reach me: 
@@ -13,12 +13,12 @@
 [![gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailto:milaanparmar9@gmail.com) 
 
 
-<!-- something 
+
 - 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
 ![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
 - 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
--->
+
 
 
 
