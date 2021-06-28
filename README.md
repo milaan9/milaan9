@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine Learning with Python(Pytorch, Tensorflow, Sckitlearn) and Matlab
 <!-- - 🌱 I’m currently learning React.
 - 🤔 I’m looking for help with Vuejs -->
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/milaanparmar/)
+- 📫 How to reach me: [![LinkedIN](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/in/crestniraj/)
 - ⚡ Fun fact: Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! 
+
+![Milaan's github stats](https://github-readme-stats.vercel.app/api?username=milaan9&count_private=true&show_icons=true&theme=tokyonight&hide-border=true)
 
 
 <!-- something 
