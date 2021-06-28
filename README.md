@@ -47,6 +47,8 @@
 [<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](#)
 <br>
 <br>
+<br>
+<br>
 
 
 
@@ -63,6 +65,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>](mailto:milaanparmar9@gmail.com)
 [<img align="left" alt="GitHub" width="50px" 
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9) 
+<br>
+<br>
 <br>
 <br>
 
