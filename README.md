@@ -62,9 +62,9 @@
 <br>
 
 
-
-### Connect with me 🤝
-
+<div align="center">
+<h2> Connect with me 🤝 </h2>
+</div>
 [<img align="left" alt="LinkedIn" width="40px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/) 
 [<img align="left" alt="Instagram" width="40px" 
@@ -82,13 +82,6 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 
 
 ### GitHub Stats 📈
-<!--
-![Milaan's github stats](https://github-readme-stats.vercel.app/api?username=milaan9&count_private=true&show_icons=true&theme=tokyonight&hide-border=true)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milaan9&layout=compact&hide=html&theme=radical" alt="milaan9" />
--->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=milaan9&show_icons=true&theme=radical" alt="milaan9" />
-
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
 
 
