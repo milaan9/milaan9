@@ -15,8 +15,8 @@
 - 👯 I’m looking to collaborate on Machine Learning and Data Mining Projects
 - 💬 Ask me about Machine Learning with Python(Pytorch, Tensorflow, Sckitlearn) and Matlab
 <!-- - 🌱 I’m currently learning React.
-- 🤔 I’m looking for help with Vuejs -->
-- 📫 How to reach me: [![LinkedIN](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/milaanparmar/)
+- 🤔 I’m looking for help with Vuejs
+- 📫 How to reach me: [![LinkedIN](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/milaanparmar/)-->
 - ⚡ Fun fact: Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! 
 
 <!-- something 
@@ -69,7 +69,7 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 
 ------------
 
-### GitHub Stats ⚡
+### GitHub Stats 📈
 <!--
 ![Milaan's github stats](https://github-readme-stats.vercel.app/api?username=milaan9&count_private=true&show_icons=true&theme=tokyonight&hide-border=true)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milaan9&layout=compact&hide=html&theme=radical" alt="milaan9" />
