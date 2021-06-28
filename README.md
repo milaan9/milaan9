@@ -89,7 +89,7 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=milaan9&show_icons=true&theme=radical" alt="milaan9" />
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik-choudhari&theme=jolly&show_icons=true" alt="Pratik's Github readme stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
 
 
 <!-- 
