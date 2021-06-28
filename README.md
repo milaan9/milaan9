@@ -51,7 +51,7 @@
 ------------
 
 
-### Other Accounts 📫
+### Connect with me 🤝
 You can find and get touch with me on these accounts!
 
 [<img align="left" alt="LinkedIn" width="50px" 
@@ -67,6 +67,8 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 <br>
 <br>
 
+------------
+
 ### GitHub Stats ⚡
 <!--
 ![Milaan's github stats](https://github-readme-stats.vercel.app/api?username=milaan9&count_private=true&show_icons=true&theme=tokyonight&hide-border=true)
@@ -75,11 +77,6 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=milaan9&show_icons=true&theme=radical" alt="milaan9" />
 ---
 
-
-### Connect with me 🤝
-
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/milaanparmar/)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">]
-[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/milaan9) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:milaanparmar9@gmail.com)
 
 
 <!--
