@@ -48,8 +48,6 @@
 <br>
 <br>
 <br>
-<br>
-
 
 
 
@@ -65,7 +63,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>](mailto:milaanparmar9@gmail.com)
 [<img align="left" alt="GitHub" width="50px" 
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9) 
-<br>
 <br>
 <br>
 <br>
