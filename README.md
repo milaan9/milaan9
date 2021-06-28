@@ -62,7 +62,7 @@
 <br>
 
 
-<div align="center">
+
 ### Connect with me 🤝
 
 [<img align="left" alt="LinkedIn" width="40px" 
@@ -78,7 +78,7 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 <br>
 <br>
 <br>
-</div>
+
 
 
 ### GitHub Stats 📈
@@ -86,7 +86,9 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 ![Milaan's github stats](https://github-readme-stats.vercel.app/api?username=milaan9&count_private=true&show_icons=true&theme=tokyonight&hide-border=true)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milaan9&layout=compact&hide=html&theme=radical" alt="milaan9" />
 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=milaan9&show_icons=true&theme=radical" alt="milaan9" />
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=milaan9&show_icons=true&theme=radical" alt="milaan9" /> 
+</p>
 
 
 <!-- 
