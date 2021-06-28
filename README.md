@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![LinkedIN](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/in/crestniraj/)
 - ⚡ Fun fact: Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! 
 
-![Milaan's github stats](https://github-readme-stats.vercel.app/api?username=milaan9&count_private=true&show_icons=true&theme=tokyonight&hide-border=true)
+
 
 
 <!-- something 
@@ -64,6 +64,12 @@ You can find and get touch with me on these accounts!
 src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" />](https://github.com/milaan9)   
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="28">](https://www.instagram.com/milaanparmar9/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook logo" width="28">](https://www.facebook.com/milaanparmar)
+
+
+### GitHub Stats ⚡
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milaan9&layout=compact&hide=html&theme=radical" alt="AdityaJ7" />
+![Milaan's github stats](https://github-readme-stats.vercel.app/api?username=milaan9&count_private=true&show_icons=true&theme=tokyonight&hide-border=true)
 
 
 
