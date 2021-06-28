@@ -26,13 +26,6 @@
 <br>
 <br>
 
-__Top open-source contributions:__
-
-Top | Contributions
--- | --
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=AlgoCode)](https://github.com/pratik-choudhari/AlgoCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=docker-guide)](https://github.com/pratik-choudhari/docker-guide) |   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=StockNotify)](https://github.com/pratik-choudhari/StockNotify)
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik-choudhari&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
 
 <div align="center">
