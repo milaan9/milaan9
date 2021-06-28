@@ -29,11 +29,9 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik-choudhari&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
 <br>
 <br>
-<br>
 
 <div align="center">
 <h3> Connect with me 🤝 </h3>
-
 [<img align="center" alt="LinkedIn" width="40px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/)
 [<img align="center" alt="Instagram" width="40px" 
@@ -46,7 +44,6 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9) 
 
 </div>
-<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/> </p>
 
