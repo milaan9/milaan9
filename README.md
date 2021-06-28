@@ -1,9 +1,6 @@
 <!--
 **milaan9/milaan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -22,15 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![LinkedIN](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/milaanparmar/)
 - ⚡ Fun fact: Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! 
 
-
-
-
 <!-- something 
 - 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
 ![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
 - 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
-
 -->
 
 ---
@@ -71,17 +64,13 @@ src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" 
 ![Milaan's github stats](https://github-readme-stats.vercel.app/api?username=milaan9&count_private=true&show_icons=true&theme=tokyonight&hide-border=true)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milaan9&layout=compact&hide=html&theme=radical" alt="milaan9" />
 -->
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=milaan9&show_icons=true&theme=radical" alt="milaan9" />
-
 ---
 
-<h2>
-Connect with me
-</h2>
+
 ### Connect with me 🤝
 
- [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/milaanparmar/)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/milaanparmar9/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/milaan9) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:milaanparmar9@gmail.com)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/milaanparmar/)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/milaanparmar9/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/milaan9) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:milaanparmar9@gmail.com)
 
 
 <!--
