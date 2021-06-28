@@ -10,6 +10,14 @@
 - ⚡ Fun fact: ...
 -->
 
+<br > Welcome to my GitHub! 🤗</h1>
+
+<!-- <p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+</p> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="tusharnankani"/> </p>
+
+
 ### Hi there 👋 
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
 - 👯 I’m looking to collaborate on Machine Learning and Data Mining Projects
