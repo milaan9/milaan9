@@ -52,7 +52,6 @@
 
 
 ### Connect with me 🤝
-You can find and get touch with me on these accounts!
 
 [<img align="left" alt="LinkedIn" width="50px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/) 
