@@ -1,13 +1,11 @@
 <p align="center"><img src=https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309 width="400" height="200"></p>
 
 <h1 align="center"> Welcome to my GitHub! 🤗</h1>
-<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>
+<!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
 
 
-<!-- <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
-</p> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/> </p>
+
+
 
 
 ### Hi there 👋 
@@ -70,3 +68,5 @@ src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>](mailto:milaanparmar9@gmail.com)
 [<img align="left" alt="GitHub" width="40px" 
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9) 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/> </p>
