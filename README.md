@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ------------
 ------------
-------------
+
 
 ## Other Accounts 📫
 You can find and get touch with me on these accounts!
