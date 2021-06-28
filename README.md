@@ -27,6 +27,9 @@
 <br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik-choudhari&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
+<br>
+<br>
+<br>
 
 <div align="center">
 <h3> Connect with me 🤝 </h3>
