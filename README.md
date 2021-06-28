@@ -63,8 +63,9 @@
 
 
 <div align="center">
-<h2> Connect with me 🤝 </h2>
+<h3> Connect with me 🤝 </h3>
 </div>
+
 [<img align="left" alt="LinkedIn" width="40px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/) 
 [<img align="left" alt="Instagram" width="40px" 
@@ -80,8 +81,9 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 <br>
 
 
-
-### GitHub Stats 📈
+<div align="center">
+<h3> GitHub Stats 📈 </h3>
+</div>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
 
 
