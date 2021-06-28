@@ -26,7 +26,7 @@
 - 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
 -->
 
----
+
 
 ### Languages and Tools: 🌐
 [<img align='left' alt='Python' width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](#)
@@ -48,7 +48,7 @@
 <br>
 <br>
 
----
+
 
 
 ### Connect with me 🤝
@@ -66,7 +66,7 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 <br>
 <br>
 
----
+
 
 ### GitHub Stats 📈
 <!--
