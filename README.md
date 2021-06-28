@@ -1,4 +1,3 @@
-<!--<p align="center"><img src=https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309 width="400" height="200"></p>-->
 <h1 align="center"> Welcome to my GitHub! 🤗</h1>
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
 
@@ -11,7 +10,6 @@
 
 [![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/milaanparmar/)
 [![gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailto:milaanparmar9@gmail.com) 
-
 
 ### Languages and Tools 👩‍💻
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
@@ -27,7 +25,7 @@
 <br>
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik-choudhari&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
 <br>
 
 <div align="center">
