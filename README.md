@@ -48,7 +48,7 @@
 <br>
 <br>
 
-------------
+---
 
 
 ### Connect with me 🤝
@@ -66,7 +66,7 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 <br>
 <br>
 
-------------
+---
 
 ### GitHub Stats 📈
 <!--
