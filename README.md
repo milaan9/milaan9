@@ -57,7 +57,7 @@ You can find and get touch with me on these accounts!
 [<img align="left" alt="LinkedIn" width="50px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/) 
 [<img align="left" alt="Instagram" width="50px" 
-src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram"/>](https://www.instagram.com/milaanparmar9/)
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>](https://www.instagram.com/milaanparmar9/)
 [<img align="left" alt="facebook" width="50px" 
 src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"/>](https://www.facebook.com/milaanparmar)
 [<img align="left" alt="Gmail" width="50px" 
