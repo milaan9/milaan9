@@ -75,33 +75,13 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milaan9&layout=compact&hide=html&theme=radical" alt="milaan9" />
 -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=milaan9&show_icons=true&theme=radical" alt="milaan9" />
----
 
 
-
-<!--
-<br>
-<br>
-<br>
-<br>
-
-# StackOverflow Activity
 <!-- 
+# StackOverflow Activity
 - [Runtime error while running PyTorch model on local machine](https://stackoverflow.com/questions/62400718/runtime-error-while-running-pytorch-model-on-local-machine)
 - [How i extract text from a model dialog in selenium?](https://stackoverflow.com/questions/62330974/how-i-extract-text-from-a-model-dialog-in-selenium)
 - [Answer by Sudhanshu Prajapati for In SparkAR 3D custom object is not working properly as AR library 3D object on same code](https://stackoverflow.com/questions/61975412/in-sparkar-3d-custom-object-is-not-working-properly-as-ar-library-3d-object-on-s/62303939#62303939)
 - [How it is encode in javascript?](https://stackoverflow.com/questions/62303636/how-it-is-encode-in-javascript)
 - [Answer by Sudhanshu Prajapati for How to increment score when a condition is met using list comprehensions](https://stackoverflow.com/questions/62300377/how-to-increment-score-when-a-condition-is-met-using-list-comprehensions/62301101#62301101)
  -->
-
-<br />
-<!--
-**sudhanshu456/sudhanshu456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-
--->
