@@ -44,8 +44,8 @@
 <h3> Connect with me 🤝 </h3>
 </div>
 
-[<img align="center" alt="LinkedIn" width="40px" 
-src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/) 
+<p align="center"><[<img align="center" alt="LinkedIn" width="40px" 
+src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/) </p>
 [<img align="center" alt="Instagram" width="40px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>](https://www.instagram.com/milaanparmar9/)
 [<img align="center" alt="facebook" width="40px" 
