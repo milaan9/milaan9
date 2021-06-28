@@ -89,6 +89,9 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=milaan9&show_icons=true&theme=radical" alt="milaan9" /></p>
 
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik-choudhari&theme=jolly&show_icons=true" alt="Pratik's Github readme stats"></p>
+
+
 <!-- 
 # StackOverflow Activity
 - [Runtime error while running PyTorch model on local machine](https://stackoverflow.com/questions/62400718/runtime-error-while-running-pytorch-model-on-local-machine)
