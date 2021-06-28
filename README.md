@@ -14,14 +14,6 @@
 
 
 
-- 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
-![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
-- 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
-
-
-
-
 ### Languages and Tools: 🌐
 [<img align='left' alt='Python' width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](#)
 [<img align='left' alt='Matlab' width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/>](#)
@@ -67,3 +59,10 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/> </p>
+
+<!--
+- 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
+![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
+- 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
+-->
