@@ -26,9 +26,10 @@
 - 👯 I’m looking to collaborate on Machine Learning and Data Mining Projects
 - 💬 Ask me about Machine Learning with Python(Pytorch, Tensorflow, Sckitlearn) and Matlab
 - ⚡ Fun fact: Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! 
+- 📫 How to reach me: [![LinkedIN](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/milaanparmar/)
 <!-- - 🌱 I’m currently learning React.
-- 🤔 I’m looking for help with Vuejs
-- 📫 How to reach me: [![LinkedIN](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/milaanparmar/)-->
+- 🤔 I’m looking for help with Vuejs -->
+
 
 
 <!-- something 
@@ -61,11 +62,13 @@
 <br>
 <br>
 
+<div align="center">
+<h3> GitHub Stats 📈 </h3>
+</div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
 
 <div align="center">
 <h3> Connect with me 🤝 </h3>
-</div>
-
 [<img align="left" alt="LinkedIn" width="40px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/) 
 [<img align="left" alt="Instagram" width="40px" 
@@ -76,22 +79,4 @@ src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>](mailto:milaanparmar9@gmail.com)
 [<img align="left" alt="GitHub" width="40px" 
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9) 
-<br>
-<br>
-<br>
-
-
-<div align="center">
-<h3> GitHub Stats 📈 </h3>
 </div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
-
-
-<!-- 
-# StackOverflow Activity
-- [Runtime error while running PyTorch model on local machine](https://stackoverflow.com/questions/62400718/runtime-error-while-running-pytorch-model-on-local-machine)
-- [How i extract text from a model dialog in selenium?](https://stackoverflow.com/questions/62330974/how-i-extract-text-from-a-model-dialog-in-selenium)
-- [Answer by Sudhanshu Prajapati for In SparkAR 3D custom object is not working properly as AR library 3D object on same code](https://stackoverflow.com/questions/61975412/in-sparkar-3d-custom-object-is-not-working-properly-as-ar-library-3d-object-on-s/62303939#62303939)
-- [How it is encode in javascript?](https://stackoverflow.com/questions/62303636/how-it-is-encode-in-javascript)
-- [Answer by Sudhanshu Prajapati for How to increment score when a condition is met using list comprehensions](https://stackoverflow.com/questions/62300377/how-to-increment-score-when-a-condition-is-met-using-list-comprehensions/62301101#62301101)
- -->
