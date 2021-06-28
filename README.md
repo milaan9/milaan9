@@ -4,19 +4,15 @@
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
 
 
-
-
-
-
 ### Hi there 👋 
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
-- 👯 I’m looking to collaborate on Machine Learning and Data Mining Projects
-- 💬 Ask me about Machine Learning with Python(Pytorch, Tensorflow, Sckitlearn) and Matlab
-- ⚡ Fun fact: Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! 
-- 📫 How to reach me: [![LinkedIN](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/milaanparmar/)
-<!-- - 🌱 I’m currently learning React.
-- 🤔 I’m looking for help with Vuejs -->
-
+- 👯 I’m looking to collaborate on **Machine Learning** and **Data Mining** Projects
+- 💬 Ask me about **Machine Learning** and **Data Science** with 🐍 Python (Pytorch, Tensorflow, Sckitlearn) and Matlab
+- ⚡ Fun fact: I'm Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! 
+- 📫 How to reach me: 
+    - [![LinkedIN](https://img.shields.io/badge/Linkedin-Connect-blue)](https://www.linkedin.com/milaanparmar/)
+    - [![protonmail.com](https://img.shields.io/badge/GMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mailto:milaanparmar9@gmail.com) 
+    - <a href="mailto:milaanparmar9@gmail.com">Email</a>
 
 
 <!-- something 
