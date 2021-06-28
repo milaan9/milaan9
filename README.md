@@ -62,7 +62,7 @@
 <br>
 
 
-
+<p align="center">
 ### Connect with me 🤝
 
 [<img align="left" alt="LinkedIn" width="40px" 
@@ -78,7 +78,7 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 <br>
 <br>
 <br>
-
+</p>
 
 
 ### GitHub Stats 📈
