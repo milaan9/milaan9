@@ -76,6 +76,9 @@ src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" 
 
 ---
 
+<h2>
+Connect with me
+</h2>
 ### Connect with me 🤝
 
  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/milaanparmar/)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/milaanparmar9/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/milaan9) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:milaanparmar9@gmail.com)
