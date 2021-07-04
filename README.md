@@ -8,14 +8,13 @@
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
 - 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** and **Data Mining**
 - 💬 Ask me about **Machine Learning** and **Data Science**  and **Data Visualization** with 🐍 Python (Pytorch, Tensorflow, Sckitlearn) and Matlab
-- ⚡ Fun fact: I'm Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! 
+- ⚡ Fun fact: I'm Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! Beside's developing stuff 👩‍💻, I enjoy listening music 🎧 and traveling 🏝️🗻.
 - 📫 How to reach me: 
 
 [![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/milaanparmar/)
 [![gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailto:milaanparmar9@gmail.com) 
 
 **Languages and Tools:**
-<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
 <code><img height="30" src="https://www.clipartmax.com/png/small/349-3490136_anaconda-icon-anaconda-python-icon.png"></code>
@@ -27,24 +26,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+<!--[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]()-->
 
-
-### Languages and Tools 👩‍💻
-
-[<img align='left' alt='Python' width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
-[<img align='left' alt='Matlab' width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/>]()
-[<img align='left' alt='C' width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>]()
-[<img align='left' alt='Sckit Learn' width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"/>]()
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]()
-[<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]()
-[<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-<br>
-<br>
-<br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats"></p>
-<br>
 
 <div align="center">
 <h3> Connect with me 🤝 </h3>
