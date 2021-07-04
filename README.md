@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" /></h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>  </p> 
 <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
-<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
+
 
 ### Hi there 👋 
 - 🔭 My area of interest is in Data Analytics & Visulizations.
@@ -55,9 +55,6 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 </div>
 
  
- 
-
-
 <!--
 [<img align='left' alt='Django' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](#)
 [<img align='left' alt='AWS' width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>](#)
