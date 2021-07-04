@@ -1,6 +1,7 @@
 <h1 align="center"> Welcome to my GitHub! 🤗</h1>
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
 <h3 align="center">A passionate Lecturer on Data Science & Machine Learning </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/> <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/> <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/> </p> 
 
 ### Hi there 👋 
 - 🔭 My area of interest is in Data Analytics & Visulizations.
@@ -45,7 +46,7 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9) 
 
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/> <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/> <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/> </p> 
+
  
  
 
