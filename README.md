@@ -1,11 +1,11 @@
 <h1 align="center"> Welcome to my GitHub! 🤗</h1>
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
-
+<h3 align="center">A passionate Lecturer on Data Science & Machine Learning </h3>
 ### Hi there 👋 
 - 🔭 My area of interest is in Data Analytics & Visulizations.
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
 - 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** and **Data Mining**
-- 💬 Ask me about **Machine Learning** and **Data Science** with 🐍 Python (Pytorch, Tensorflow, Sckitlearn) and Matlab
+- 💬 Ask me about **Machine Learning** and **Data Science**  and **Data Visualization** with 🐍 Python (Pytorch, Tensorflow, Sckitlearn) and Matlab
 - ⚡ Fun fact: I'm Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! 
 - 📫 How to reach me: 
 
