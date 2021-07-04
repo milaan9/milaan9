@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" /></h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>  </p> 
 <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
+<!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Hi there 👋 
 - 🔭 My area of interest is in Data Analytics & Visulizations.
