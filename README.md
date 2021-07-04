@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/> <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/> <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/> </p> 
 
 ### Hi there 👋 
+<img align="right" alt="GIF" width="25px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" />
 - 🔭 My area of interest is in Data Analytics & Visulizations.
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
 - 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** and **Data Mining**
