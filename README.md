@@ -2,6 +2,7 @@
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
 
 ### Hi there 👋 
+- 🔭 My area of interest is in Data Analytics & Visulizations.
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
 - 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** and **Data Mining**
 - 💬 Ask me about **Machine Learning** and **Data Science** with 🐍 Python (Pytorch, Tensorflow, Sckitlearn) and Matlab
@@ -45,9 +46,7 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/> </p>
 
-[![Repos Badge](https://badges.pufler.dev/repos/milaan9)](https://badges.pufler.dev)
-
-[![Years Badge](https://badges.pufler.dev/years/milaan9)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/milaan9)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/milaan9)](https://badges.pufler.dev)
 
 <!--
 [<img align='left' alt='Django' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](#)
