@@ -1,6 +1,7 @@
 <h1 align="center"> Welcome to my GitHub! 🤗</h1>
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
 <h3 align="center">A passionate Lecturer on Data Science & Machine Learning </h3>
+
 ### Hi there 👋 
 - 🔭 My area of interest is in Data Analytics & Visulizations.
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
