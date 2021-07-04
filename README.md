@@ -37,15 +37,15 @@
 <div align="center">
 <h3> Connect with me 🤝 </h3>
  
-[<img align="center" alt="LinkedIn" width="40px" 
+[<img align="center" alt="LinkedIn" width="30px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/)
-[<img align="center" alt="Instagram" width="40px" 
+[<img align="center" alt="Instagram" width="30px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"/>](https://www.instagram.com/milaanparmar9/)
-[<img align="center" alt="facebook" width="40px" 
+[<img align="center" alt="facebook" width="30px" 
 src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"/>](https://www.facebook.com/milaanparmar)
-[<img align="center" alt="Gmail" width="40px" 
+[<img align="center" alt="Gmail" width="30px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>](mailto:milaanparmar9@gmail.com)
-[<img align="center" alt="GitHub" width="40px" 
+[<img align="center" alt="GitHub" width="30px" 
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9) 
 
 </div>
