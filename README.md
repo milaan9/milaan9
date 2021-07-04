@@ -47,6 +47,8 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/> </p>  
 
+<p align="center"> <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/> </p>  
+
 [![Repos Badge](https://badges.pufler.dev/repos/milaan9)](https://badges.pufler.dev) 
 
 [![Years Badge](https://badges.pufler.dev/years/milaan9)](https://badges.pufler.dev)
