@@ -5,9 +5,6 @@
 <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
 <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=milaan9"/>
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=milaan9)
 
 ### Hi there 👋 
 - 🔭 My area of interest is in Data Analytics & Visulizations.
