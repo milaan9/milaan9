@@ -45,11 +45,7 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9) 
 
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/> </p>  
-
-<p align="center"> <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/> </p>  
-
-<p align="center"> <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/> </p>  <p align="center"> <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/> </p>  <p align="center"> <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/> </p> 
  
  
 
