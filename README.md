@@ -7,6 +7,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=milaan9"/>
 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=milaan9)
+
 ### Hi there 👋 
 - 🔭 My area of interest is in Data Analytics & Visulizations.
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
