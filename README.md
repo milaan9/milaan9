@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my GitHub! 🤗</h1>
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
-<h3 align="center">A passionate Lecturer on Data Science & Machine Learning </h3> <img align="right" alt="GIF" width="25px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" />
+<h3 align="center">A passionate Lecturer on Data Science & Machine Learning <width="25px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" /></h3> <img align="right" alt="GIF" width="25px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/> <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/> <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/> </p> 
 
 ### Hi there 👋 
