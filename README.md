@@ -38,13 +38,12 @@
 <p align="center"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Pratik's Github readme stats">
 <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9" />
 </p>
+<br>
+<br>
 
-<br>
-<br>
-<br>
 
 <div align="center">
-<h3> Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Avinash-Gahlowt/Avinash-Gahlowt/blob/main/Handshake.gif" width="50px"></a>
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Avinash-Gahlowt/Avinash-Gahlowt/blob/main/Handshake.gif" width="50px"></a>
 </h3>
  
 [<img align="center" alt="LinkedIn" width="25px" 
