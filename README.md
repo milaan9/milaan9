@@ -35,15 +35,17 @@
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 <!--[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]()-->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Pratik's Github readme stats"></p>
-<img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&theme=dark" alt="milaan9" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Pratik's Github readme stats">
+<img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&theme=dark" alt="milaan9" />
+</p>
 
 <br>
 <br>
 <br>
 
 <div align="center">
-<h3> Connect with me 🤝  [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) </h3>
+<h3> Connect with me 🤝 <a href="https://gifyu.com/image/Zy2f"><img src="https://s4.gifyu.com/images/handshake.gif" width="25px"></a>
+</h3>
  
 [<img align="center" alt="LinkedIn" width="25px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/)
