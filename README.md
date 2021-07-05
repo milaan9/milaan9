@@ -41,7 +41,7 @@
 <br>
 
 <div align="center">
-<h3> Connect with me 🤝 </h3>
+<h3> Connect with me 🤝  [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) </h3>
  
 [<img align="center" alt="LinkedIn" width="25px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/)
