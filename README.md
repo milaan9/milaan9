@@ -44,7 +44,7 @@
 <br>
 
 <div align="center">
-<h3> Connect with me 🤝 <a href="https://gifyu.com/image/Zy2f"><img src="https://s4.gifyu.com/images/handshake.gif" width="25px"></a>
+<h3> Connect with me 🤝 <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/Avinash-Gahlowt/Avinash-Gahlowt/blob/main/Handshake.gif" width="25px"></a>
 </h3>
  
 [<img align="center" alt="LinkedIn" width="25px" 
