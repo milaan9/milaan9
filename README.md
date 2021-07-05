@@ -36,7 +36,7 @@
 <!--[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]()-->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Pratik's Github readme stats">
-<img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&theme=dark" alt="milaan9" />
+<img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9" />
 </p>
 
 <br>
