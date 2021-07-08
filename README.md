@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I'm Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie 😄 !! Beside's developing stuff 👩‍💻, I enjoy listening music 🎧 and traveling 🏝️🗻.
 - 📫 How to reach me: milaanparmar9@gmail.com
 
-[<img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/>](https://www.linkedin.com/milaanparmar/)  [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22">](https://milaan9.github.io/)
+[<img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/>](https://www.linkedin.com/in/milaanparmar/)  [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22">](https://milaan9.github.io/)
 
 
 
