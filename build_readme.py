@@ -35,7 +35,7 @@ def get_tils():
     return til_md
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://vidyabhandary.github.io/blog/feed.xml")["entries"]
+    entries = feedparser.parse("https://milaan9.github.io/blog/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
