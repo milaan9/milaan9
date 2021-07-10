@@ -36,7 +36,7 @@
     <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Google Scholar-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>
     <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>
     <img src="https://img.shields.io/static/v1?label=wechat&message=milaanparmar9&color=7BB32E&logo=wechat"/>
-    <img src="https://img.shields.io/static/v1?label=qq&message=3086215265&color=7BB32E&logo=qq"/>
+    <img src="https://img.shields.io/static/v1?label=qq&message=3086215265&color=7BB32E&logo=QQ"/>
     <!--<a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>-->
 </p> 
 
