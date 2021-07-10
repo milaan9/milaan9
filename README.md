@@ -17,7 +17,7 @@
 <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
 <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
 
-BIO
+#### BIO
 - 🔭 My area of interest is in Data Analytics & Visulizations.
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
 - 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** and **Data Mining**
