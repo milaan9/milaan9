@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you </h1>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'am Dr. Milaan Parmar
+<h3 align="center">I'm a passionate Researcher cum Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/> </h3> 
 
 <p align="center"> 
     <a href="https://github.com/milaan9" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@milaan9-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
@@ -16,11 +16,11 @@
     <!--<a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>-->
 </p> 
 
-<h3 align="center">I'm a passionate Researcher cum Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/> </h3> 
+
 
 
 ##### NOW
-- 🛠 Currently working on developing new clustering algorithms for autonomus pattern recognition
+- 🛠 Currently working on developing new clustering algorithms for autonomous pattern recognition
 
 #### BIO
 - 🏢 I'm currently working at **Jilin University of Finance and Economics** <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/> China
