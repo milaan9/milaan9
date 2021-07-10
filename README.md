@@ -9,8 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
     <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  
     <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  
-    <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>  
-    <a href="https://github.com/milaan9/milaan9/actions"><img src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg" alt="Build README"></a>  
+    <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>   
     <a href="https://github.com/milaan9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=green&logo=github"></a>
     <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=profile%20updated&style=flat-square"></a>
 </p> 
@@ -33,7 +32,7 @@
     <a href="https://www.researchgate.net/profile/Milan-Parmar" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0002-7596-407X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
     <a href="https://publons.com/researcher/3190369/milan-parmar" target="_blank"><img alt="publons" src="https://img.shields.io/badge/-publons-336699?style=flat-square&logo=PUBLONS&logoColor=white"></a>
-    <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Google Scholar-4885ED?style=for-the-badge&logo=Google-Scholar&logoColor=white"></a>
+    <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Google Scholar-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>
    
 </p> 
 
@@ -65,7 +64,7 @@
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3>
- 
+<a img align="center", href="https://github.com/milaan9/milaan9/actions"><img src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg" alt="Build README"></a> 
 [<img align="center" alt="LinkedIn" width="25px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/)
 [<img align="center" alt="Instagram" width="25px" 
