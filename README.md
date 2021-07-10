@@ -2,9 +2,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-
-
-<h3 align="center">I'm Dr. Milaan, a passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/> currently living in <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/> <b>Changchun, China</b> </h3> 
+<h3 align="center">A passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/> currently living in <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/> <b>Changchun, China</b> </h3> 
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
