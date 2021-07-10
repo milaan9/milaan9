@@ -3,7 +3,7 @@
 <p> Welcome to my page! </p>    
     
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
-<h3 align="center">I'm Dr. Milaan, a passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/> currently living in <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/> <b>Changchun, China</b> </h3> 
+<h3 align="center">I'm Dr. Milaan, a passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>, from <img src="https://image.flaticon.com/icons/svg/3909/3909444.svg" width="13"/> <b>Mumbai, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/> <b>Changchun, China</b> </h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>  <a href="https://github.com/milaan9/milaan9/actions"><img src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg" alt="Build README"></a>  <a href="https://github.com/milaan9?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=green&logo=github"></p> 
 <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
