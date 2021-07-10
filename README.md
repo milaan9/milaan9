@@ -11,7 +11,7 @@
     <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  
     <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>   
     <a href="https://github.com/milaan9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=green&logo=github"></a>
-    <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=profile%20updated&style=fflat-square"></a>
 </p> 
     
 <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
