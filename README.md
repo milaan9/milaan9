@@ -32,7 +32,8 @@
     <a href="https://www.researchgate.net/profile/Milan-Parmar" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
     <a href="https://orcid.org/0000-0002-7596-407X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
     <a href="https://publons.com/researcher/3190369/milan-parmar" target="_blank"><img alt="publons" src="https://img.shields.io/badge/-publons-336699?style=flat-square&logo=PUBLONS&logoColor=white"></a>
-    <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Google Scholar-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>  
+    <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/-Google Scholar-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>
+    <a href="https://github.com/milaan9" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"></a> 
 </p> 
 
 <!--[<img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/>](https://www.linkedin.com/in/milaanparmar/)  <img src="https://img.shields.io/static/v1?label=wechat&message=milaanparmar9&color=7BB32E&logo=wechat"/>  [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22">](https://milaan9.github.io/) -->
