@@ -100,7 +100,7 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9) 
 
 <p align="center">
-[<img align="center" alt="LinkedIn"
+    [<img align="center" alt="LinkedIn"
 src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg"/>](https://github.com/milaan9/milaan9/actions)
 </p>
 
