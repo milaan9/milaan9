@@ -1,9 +1,9 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you </h1>
 
-<p>Welcome to my page! </br> I'm Dr. Milaan, A passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>, currently living in 🇨🇳 <b>Changchun, China</b>. </p>    
+<p>Welcome to my page! </br> I'm Dr. Milaan, A passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="13"/> <b>Changchun, China</b>. </p>    
     
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
-<h3 align="center">I'm Dr. Milaan, a passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/></h3> 
+<h3 align="center">I'm Dr. Milaan, a passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/> </h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>  <a href="https://github.com/milaan9/milaan9/actions"><img src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg" alt="Build README"></a>  <a href="https://github.com/milaan9?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=green&logo=github"></p> 
 <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
@@ -11,11 +11,11 @@
 
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-- 🔭 My area of interest is in Data Analytics & Visulizations. 🇨🇳
+- 🔭 My area of interest is in Data Analytics & Visulizations.
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
 - 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** and **Data Mining**
 - 💬 Ask me about **Machine Learning** and **Data Science**  and **Data Visualization** with 🐍 Python (Pytorch, Tensorflow, Sckitlearn) and Matlab
-- ⚡ Fun fact: I'm Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='20px'> !! Beside's developing stuff 👩‍💻, I enjoy listening music 🎧 and traveling 🏝️🗻🌄🗿🤗(:cn:)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
+- ⚡ Fun fact: I'm Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='20px'> !! Beside's developing stuff 👩‍💻, I enjoy listening music 🎧 and traveling 🏝️🗻🌄🗿🤗<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
 - 📫 How to reach me: milaanparmar9@gmail.com
 
 [<img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/>](https://www.linkedin.com/in/milaanparmar/)  <img src="https://img.shields.io/static/v1?label=wechat&message=milaanparmar9&color=7BB32E&logo=wechat"/>  [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22">](https://milaan9.github.io/)
