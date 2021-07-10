@@ -43,7 +43,7 @@
 - 🌱 Learning all about **deep learning**
 - 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** and **Data Mining**
 - 💬 Ping me about **Machine Learning** and **Data Science**  and **Data Visualization** with 🐍 Python (Tensorflow, Sckitlearn) and Matlab
-- ⚡ Fun fact: Vegetarian🌿 | huge fan of Harry Potter🧙 | love feeding birds 🕊 | love cooking <img align ='center' width ='20px' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
+- ⚡ Fun fact: Vegetarian🌿 | huge fan of Harry Potter🧙 | love feeding birds 🕊 | enjoy cooking and hosting dinner <img align ='center' width ='20px' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 - ⚛ Besides working <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="23px"> I enjoy listening music 🎧 going to gym 🏋️‍♂️ play badminton 🏸 and traveling 🏝️🗻🌄🗿<img align ='center' width ='20px' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
 - 📫 Reach me: <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
