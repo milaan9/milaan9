@@ -1,6 +1,9 @@
-<h1 align="center"> Welcome to my GitHub! 🤗</h1>
+<h1 align="center"> <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you. 🤗</h1>
+
+<p>Welcome to my page! </br> I'm Dr. Milaan, >A passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>, currently living in 🇨🇳 <b>Changchun, China</b>. </p>    
+    
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
-<h3 align="center">A passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" /></h3> 
+<h3 align="center">A passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/></h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>  <a href="https://github.com/milaan9/milaan9/actions"><img src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg" alt="Build README"></a>  <a href="https://github.com/milaan9?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=green&logo=github"></p> 
 <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
