@@ -102,7 +102,10 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 </div> 
 
 <div align="center">
-[<img align="center" alt="LinkedIn" src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg"/>](https://github.com/milaan9/milaan9/actions)
+    [<img align="center" alt="LinkedIn" src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg"/>](https://github.com/milaan9/milaan9/actions)
+    
+    [<img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/>](https://www.linkedin.com/in/milaanparmar/)  
+    
 
 </div> 
 
