@@ -26,7 +26,6 @@
 - 🏢 I'm currently working at **Jilin University of Finance and Economics**
 - 🔭 My area of interest is in Data Analytics & Visulizations.
 - 🎯 Particularly interested in finding hidden patterns, rules and knowledge from a data, pretty cool huh!
-- ⚙️ 
 - 🌱 Learning all about **deep learning**
 - 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** and **Data Mining**
 - 💬 Ping me about **Machine Learning** and **Data Science**  and **Data Visualization** with 🐍 Python (Tensorflow, Sckitlearn) and Matlab
