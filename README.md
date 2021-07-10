@@ -56,10 +56,13 @@
     <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 </p>
 
-
-<p align="center"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats">
-<img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9"/>
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats">
+    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9"/>
 </p>
+</details>
 <br>
 
 <div align="center">
