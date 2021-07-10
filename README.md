@@ -64,7 +64,7 @@
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3>
-<a href="https://github.com/milaan9/milaan9/actions"><img align="center" src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg" alt="Build README"></a> 
+
 [<img align="center" alt="LinkedIn" width="25px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/)
 [<img align="center" alt="Instagram" width="25px" 
@@ -78,7 +78,7 @@ src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan
 
 </div>
 
- 
+<a href="https://github.com/milaan9/milaan9/actions"><img align="center" src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg" alt="Build README"></a>  
 <!--
 [<img align='left' alt='Django' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](#)
 [<img align='left' alt='AWS' width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>](#)
