@@ -18,18 +18,6 @@
 
 <h3 align="center">I'm a passionate Researcher cum Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/> working in <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/>China</h3> 
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
-    <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  
-    <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  
-    <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>   
-    <a href="https://github.com/milaan9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=green&logo=github"></a>
-    <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=profile%20updated&style=fflat-square"></a>    
-</p> 
-    
-<!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
-<!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
-<!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
 
 ##### NOW
 - 🛠 Currently working on developing new clustering algorithms for autonomus pattern recognition
@@ -45,8 +33,6 @@
 - ⚡ Fun fact: I'm a huge fan of Harry Potter, I love feeding birds and fishes and I love cooking <img align ='center' width ='20px' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 - ⚛ Beside's developing stuff <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="23px"> I enjoy listening music 🎧 going to gym 🏋️‍♂️ play badminton 🏸 and traveling 🏝️🗻🌄🗿<img align ='center' width ='20px' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
 - 📫 Reach me: <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
-
-
 
 
 <p align="center">
@@ -74,6 +60,19 @@
 </p>
 </details>
 <br>
+
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
+    <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  
+    <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  
+    <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>   
+    <a href="https://github.com/milaan9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=green&logo=github"></a>
+    <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=profile%20updated&style=fflat-square"></a>
+    <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+    <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
+    <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
+</p> 
+
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
