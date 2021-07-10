@@ -1,4 +1,4 @@
-<h1 align="center"> <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you.</h1>
+<h1 align="center"><h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you. </h1>
 
 <p>Welcome to my page! </br> I'm Dr. Milaan, A passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>, currently living in 🇨🇳 <b>Changchun, China</b>. </p>    
     
