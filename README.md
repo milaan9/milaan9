@@ -98,16 +98,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"/>](mailto:milaanparmar9@gmail.com)
 [<img align="center" alt="GitHub" width="25px" 
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9) 
-
 </div> 
-
-
-[<img align="center" alt="LinkedIn" src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg"/>](https://github.com/milaan9/milaan9/actions)
     
-[<img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/>](https://www.linkedin.com/in/milaanparmar/)  
-    
-
-
 <p align="center">
     <a href="https://github.com/milaan9/milaan9/actions"><img src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg" alt="Build README"></a>  
 </p>
