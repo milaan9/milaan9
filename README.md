@@ -1,5 +1,17 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you </h1>
 
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
+    <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  
+    <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  
+    <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>   
+    <a href="https://github.com/milaan9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=green&logo=github"></a>
+    <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=profile%20updated&style=fflat-square"></a>
+    <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+    <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
+    <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
+</p> 
+
 <h3 align="center"> 
     <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I'am Dr. Milaan! A passionate Researcher cum Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
 </h3> 
@@ -61,19 +73,6 @@
 </p>
 </details>
 <br>
-
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
-    <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  
-    <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  
-    <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>   
-    <a href="https://github.com/milaan9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=green&logo=github"></a>
-    <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=profile%20updated&style=fflat-square"></a>
-    <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
-    <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
-    <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
-</p> 
-
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
