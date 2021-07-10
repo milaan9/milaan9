@@ -7,7 +7,7 @@
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>  
-    <img src="https://komarev.com/ghpvc/?username=milaan9?logo=GitHub" alt="milaan9"/> 
+    <a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a> 
     <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  
     <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  
     <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>  
