@@ -11,7 +11,7 @@
 
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-- 🔭 My area of interest is in Data Analytics & Visulizations.
+- 🔭 My area of interest is in Data Analytics & Visulizations. 🇨🇳
 - 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
 - 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** and **Data Mining**
 - 💬 Ask me about **Machine Learning** and **Data Science**  and **Data Visualization** with 🐍 Python (Pytorch, Tensorflow, Sckitlearn) and Matlab
