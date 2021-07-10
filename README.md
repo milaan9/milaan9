@@ -7,10 +7,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>  <a href="https://github.com/milaan9/milaan9/actions"><img src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg" alt="Build README"></a>  <a href="https://github.com/milaan9?tab=followers">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=green&logo=github"></p> 
     
-![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue)
-    
-![visitors](https://visitor-badge.glitch.me/badge?page_id=milaan9)
-    <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
+<!--![Profile Views](http://img.shields.io/badge/Profile%20Views-138-blue)-->
+<!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
 <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
 
 
