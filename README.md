@@ -16,14 +16,14 @@
     <!--<a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>-->
 </p> 
 
-<h3 align="center">I'm a passionate Researcher cum Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/> working in <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/>China</h3> 
+<h3 align="center">I'm a passionate Researcher cum Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/> </h3> 
 
 
 ##### NOW
 - 🛠 Currently working on developing new clustering algorithms for autonomus pattern recognition
 
 #### BIO
-- 🏢 I'm currently working at **Jilin University of Finance and Economics**
+- 🏢 I'm currently working at **Jilin University of Finance and Economics** <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/> China
 - 🔭 My area of interest is in Data Analytics & Visulizations.
 - 🎯 Particularly interested in finding hidden patterns, rules and knowledge from a data, pretty cool huh!
 - 🌱 Learning all about **deep learning**
