@@ -71,7 +71,7 @@
 <!--[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]()-->
 
 <p align="center"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Pratik's Github readme stats">
-<img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9" />
+<img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9"/>
 </p>
 <br>
 
@@ -80,6 +80,13 @@
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/milaanparmar" target="_blank"><img alt="Code" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="https://www.instagram.com/milaanparmar9" target="_blank"><img alt="Code" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
+    
+</p>   
+    
+    
 [<img align="center" alt="LinkedIn" width="25px" 
 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>](https://www.linkedin.com/in/milaanparmar/)
 [<img align="center" alt="Instagram" width="25px" 
