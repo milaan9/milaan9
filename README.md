@@ -99,8 +99,9 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail
 [<img align="center" alt="GitHub" width="25px" 
 src="https://cdn.svgporn.com/logos/github-icon.svg"/>](https://github.com/milaan9) 
 
-[<img align="center" alt="LinkedIn" width="25px" 
+[<img align="center" alt="LinkedIn"
 src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg"/>](https://github.com/milaan9/milaan9/actions)
+
 <p align="center">
     <a href="https://github.com/milaan9/milaan9/actions"><img src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg" alt="Build README"></a>  
 </p>
