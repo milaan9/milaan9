@@ -2,22 +2,34 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'am Dr. Milaan Parmar
 
-<h3 align="center">I'm a passionate Researcher cum Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/> working in <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/> <b>Changchun, China</b> </h3> 
+<h3 align="center">I'm a passionate Researcher cum Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/> working in <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/>China</h3> 
 
-
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
+    <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  
+    <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  
+    <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>   
+    <a href="https://github.com/milaan9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=green&logo=github"></a>
+    <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=profile%20updated&style=fflat-square"></a>    
+</p> 
+    
+<!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+<!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
+<!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
 
 ##### NOW
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
-- 🍑 What about this?
+- 🛠 Currently working on developing new clustering algorithms for autonomus pattern recognition
 
 #### BIO
 - 🏢 I'm currently working at **Jilin University of Finance and Economics**
 - 🔭 My area of interest is in Data Analytics & Visulizations.
-- 🌱 I’m a Data Science Lecturer, Tech gadgets lover, Love to find patterns and knowledge from a data, visualization pretty cool huh!
+- 🎯 Particularly interested in finding hidden patterns, rules and knowledge from a data, pretty cool huh!
+- ⚙️ 
+- 🌱 Learning all about **deep learning**
 - 👯 I’m looking to collaborate on *Open Sourced Projects* on **Machine Learning** and **Data Mining**
 - 💬 Ping me about **Machine Learning** and **Data Science**  and **Data Visualization** with 🐍 Python (Tensorflow, Sckitlearn) and Matlab
-- ⚡ Fun fact: I'm Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='20px'> !! Beside's developing stuff <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I enjoy listening music 🎧 and traveling 🏝️🗻🌄🗿<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
+- ⚡ Fun fact: I'm a huge fan of Harry Potter, I love feeding birds and fishes and I love cooking <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='20px'>
+- 🃏 Beside's developing stuff <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I enjoy listening music 🎧 and traveling 🏝️🗻🌄🗿<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">, love going to gym 🏋️‍♂️ play badminton 🏸
 - 📫 Reach me: <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 
