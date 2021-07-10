@@ -65,6 +65,7 @@
     <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 </p>
 
+
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
@@ -72,12 +73,11 @@
     <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9"/>
 </p>
 </details>
-<br>
+
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
-
 <p align="center">
     <a href="https://www.linkedin.com/in/milaanparmar" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
     <a href="https://www.instagram.com/milaanparmar9" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
