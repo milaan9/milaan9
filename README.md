@@ -23,9 +23,9 @@
 - ⚡ Fun fact: I'm Ph.D. in Data Mining and Cluster Analysis, Love playing badminton & watch some mysteries series like The Blacklist, Mare of Easttown, etc, Big Foodie <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='20px'> !! Beside's developing stuff <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I enjoy listening music 🎧 and traveling 🏝️🗻🌄🗿<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
 - 📫 How to reach me: milaanparmar9@gmail.com
 
-[<img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/>](https://www.linkedin.com/in/milaanparmar/)  <img src="https://img.shields.io/static/v1?label=wechat&message=milaanparmar9&color=7BB32E&logo=wechat"/>  [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22">](https://milaan9.github.io/)
+[<img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/>](https://www.linkedin.com/in/milaanparmar/)  <img src="https://img.shields.io/static/v1?label=wechat&message=milaanparmar9&color=7BB32E&logo=wechat"/>  [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22">](https://milaan9.github.io/) 
 
-
+[<img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white&color=0D76A8"/>]
 
 <!--[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/+79041599690) -->
 
