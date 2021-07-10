@@ -4,8 +4,10 @@
     
 <!--<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>-->
 <h3 align="center">I'm Dr. Milaan, a passionate Lecturer on Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/> currently living in <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/> <b>Changchun, China</b> </h3> 
+
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>  
+    <img src="https://komarev.com/ghpvc/?username=milaan9?logo=GitHub" alt="milaan9"/> 
     <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  
     <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  
     <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>  
