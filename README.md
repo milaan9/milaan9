@@ -83,6 +83,8 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/milaanparmar" target="_blank"><img alt="Code" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
     <a href="https://www.instagram.com/milaanparmar9" target="_blank"><img alt="Code" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
+    <a href="https://www.facebook.com/milaanparmar" target="_blank"><img alt="Code" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
+    <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="Code" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>
     
 </p>   
     
