@@ -107,7 +107,7 @@
 📖 Book Chapter
 |Sr. No.|  Title  |  DOI  | Book |
 |-------|---------|-------|------|
-|01| [*Parameters Estimation of Regression Model Based on the Improved AFSA [book-chapter] (2017)*](https://doi.org/10.1007/978-3-319-49568-2_3) |   <a href="https://doi.org/10.1007/978-3-319-49568-2_3" target="_blank"><img alt="DOI" width ='500px' src="https://img.shields.io/badge/DOI:-10.1007/978&#8722;3&#8722;319&#8722;49568&#8722;2&#x5f;3-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Recent Developments in Intelligent Systems and Interactive Applications](https://www.springer.com/gp/book/9783319495675)** |    
+|01| [*Parameters Estimation of Regression Model Based on the Improved AFSA [book-chapter] (2017)*](https://doi.org/10.1007/978-3-319-49568-2_3) |   <a href="https://doi.org/10.1007/978-3-319-49568-2_3" target="_blank"><img alt="DOI" width ='500px' src="https://img.shields.io/badge/DOI:-10.1007/978&#8722;3&#8722;319&#8722;49568&#8722;2&lowbar;3-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Recent Developments in Intelligent Systems and Interactive Applications](https://www.springer.com/gp/book/9783319495675)** |    
     
     
     
