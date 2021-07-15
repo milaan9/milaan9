@@ -85,8 +85,7 @@
 - <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="Complexity" src="An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory"></a>
     
 📃 Conference Proceedings
-1. [![DOI](https://zenodo.org/badge/164469568.svg)](https://zenodo.org/badge/latestdoi/164469568)
-</details>    
+1. [![DOI:10.1155/2021/6666619](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://doi.org/10.1155/2021/6666619)    
     
 
 
