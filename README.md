@@ -46,11 +46,11 @@
 #### BIO
 
 - 🏢 I'm currently working at **Jilin University of Finance and Economics**, China
-- 🔭 My area of interest is in Data Analytics & Visulizations.
+- 🔭 My area of interest is in <img src="https://img.shields.io/badge/Data Analytics & Visualizations-magenta">.
 - 🎯 Particularly interested in finding hidden patterns, rules and knowledge from a data, pretty cool huh!
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Deep Learning-red">
-- 👯 I’m looking to collaborate on *Open Source Projects* on **Machine Learning** and **Data Mining** <img align ='center' width ='20px' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'>
-- 💬 Ping me about **Machine Learning** and **Data Science**  and **Data Visualization** with 🐍 Python (Tensorflow, Sckitlearn) and Matlab
+- 👯 I’m looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-green"> and <img src="https://img.shields.io/badge/Data Mining-yellow"> <img align ='center' width ='20px' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'>
+- 💬 Ping me about **Machine Learning** and <img src="https://img.shields.io/badge/Data Science-brown">  and <img src="https://img.shields.io/badge/Data Visualization-blue"> with 🐍 Python (Tensorflow, Sckitlearn) and Matlab
 - ⚡ Fun fact: Vegetarian🌿 | huge fan of Harry Potter🧙 | love feeding birds 🕊 | enjoy cooking and hosting dinner <img align ='center' width ='20px' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 - ⚛ Besides working <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="23px"> I enjoy listening music 🎧 going to gym 🏋️‍♂️ play badminton 🏸 and traveling 🏝️🗻🌄🗿<img align ='center' width ='20px' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
 - 📫 Reach me: <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
