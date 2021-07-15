@@ -39,7 +39,7 @@
 #### BIO
 
 <table align="right">
-    <tr><td><img src="https://image.flaticon.com/icons/svg/3898/3898082.svg" height="15"></a></td></tr>
+    <tr><td><img src="https://image.flaticon.com/icons/svg/3898/3898082.svg" width="15"></a></td></tr>
     <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
     <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
