@@ -77,13 +77,13 @@
 <details>
 <summary><samp>&#9776;</samp> Click for List of Publications </summary>
 <p align="left">
-    📜Journal Articles
     
-    1. <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="Complexity" src="An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory"></a> 
+    #### 📜Journal Articles
+
+- <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="Complexity" src="An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory"></a>
     
     [![DOI](https://zenodo.org/badge/164469568.svg)](https://zenodo.org/badge/latestdoi/164469568)
     
-    2. [An Improved IntegratedClustering Learning StrategyBased onThree-StageAffinityProp-agationAlgorithmwith DensityPeak OptimizationTheory”. In:Complexity (2021)](https://doi.org/10.1155/2021/6666619)**
     3. 
     
     
