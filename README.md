@@ -78,9 +78,9 @@
 <summary><samp>&#9776;</samp> Click for List of Publications </summary>
     
 📜Journal Articles
-1. [![DOI:10.1155/2021/6666619](http://img.shields.io/badge/DOI-10.1155/2021/6666619-0099ff.svg)](https://doi.org/10.1155/2021/6666619) [An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory](https://doi.org/10.1155/2021/6666619) [![DOI:10.1155/2021/6666619](http://img.shields.io/badge/DOI-10.1155/2021/6666619-0099ff.svg)](https://doi.org/10.1155/2021/6666619) 
+1. [An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory in **Complexity**](https://doi.org/10.1155/2021/6666619) [![DOI:10.1155/2021/6666619](http://img.shields.io/badge/DOI-10.1155/2021/6666619-0099ff.svg)](https://doi.org/10.1155/2021/6666619) 
     
-2. 10.1155/2021/6666619
+2. Stock price forecasting based on LLE-BP neural network model
 
 - <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="Complexity" src="An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory"></a>
     
