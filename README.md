@@ -76,7 +76,7 @@
 
 <details>
 <summary><samp>&#9776;</samp> Click for List of Publications </summary>
----    
+<br>  
     
 📜Journal Articles
      
