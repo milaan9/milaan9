@@ -45,7 +45,7 @@
 
 #### BIO
 
-- 🏢 I'm currently working at **Jilin University of Finance and Economics** <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/> China
+- 🏢 I'm currently working at **Jilin University of Finance and Economics**, China
 - 🔭 My area of interest is in Data Analytics & Visulizations.
 - 🎯 Particularly interested in finding hidden patterns, rules and knowledge from a data, pretty cool huh!
 - 🌱 Learning all about **deep learning**
