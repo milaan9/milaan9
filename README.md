@@ -82,7 +82,7 @@
     
 |  Sr. No. |   Title   |     DOI    |   Journal  |
 |----------|-----------|------------|------------|
-|01.| *An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory* |   <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="DOI" width ='100px' src="https://img.shields.io/badge/DOI:-DOI:10.1155/2021/6666619-0099ff?style=fflat-square&labelColor=FFD43B"></a> | <a href="https://www.hindawi.com/journals/complexity" target="_blank"><img alt="Complexity" src="https://img.shields.io/badge/Complexity-blue"></a>  |
+|01.| *An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory* |   <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="DOI" width ='800px' src="https://img.shields.io/badge/DOI:-DOI:10.1155/2021/6666619-0099ff?style=fflat-square&labelColor=FFD43B"></a> | <a href="https://www.hindawi.com/journals/complexity" target="_blank"><img alt="Complexity" src="https://img.shields.io/badge/Complexity-blue"></a>  |
     
  <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="DOI" src="https://img.shields.io/badge/Complexity-blue"></a>
  
