@@ -46,7 +46,7 @@
 #### BIO
 
 - 🏢 I'm currently working at **Jilin University of Finance and Economics**, China
-- 🔭 My area of interest is in <img src="https://img.shields.io/badge/Data Analytics & Visualizations-magenta">.
+- 🔭 My area of interest is in <img src="https://img.shields.io/badge/Data Analytics & Visualizations-magenta">
 - 🎯 Particularly interested in finding hidden patterns, rules and knowledge from a data, pretty cool huh!
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Deep Learning-red">
 - 👯 I’m looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-green"> and <img src="https://img.shields.io/badge/Data Mining-yellow"> <img align ='center' width ='20px' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'>
