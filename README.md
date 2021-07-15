@@ -93,7 +93,7 @@
 |Sr. No.|  Title  |   DOI  | Conference |
 |-------|---------|--------|------------|
 |01| [*A novel density peak clustering algorithm based on squared residual error*](https://doi.org/10.1109/spac.2017.8304248) |   <a href="https://doi.org/10.1109/spac.2017.8304248" target="_blank"><img alt="DOI" width ='500px' src="https://img.shields.io/badge/DOI:-10.1109/spac.2017.8304248-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[2017 International Conference on Security, Pattern Analysis, and Cybernetics (SPAC)](https://ieeexplore.ieee.org/xpl/conhome/8300290/proceeding)** |
-|02| [*A Prediction of Financial Distress for Listed Companies of the New tertiary board Based on Factor Analysis and Logistic Regression*](https://doi.org/10.2991/icemse-16.2016.6) |   <a href="https://doi.org/10.1109/spac.2017.8304248" target="_blank"><img alt="DOI" width ='500px' src="https://img.shields.io/badge/DOI:-10.2991/icemse&#150;16.2016.6-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Proceedings of the 2016 International Conference on Education, Management Science and Economics](https://www.atlantis-press.com/proceedings/icemse-16/articles)** |
+|02| [*A Prediction of Financial Distress for Listed Companies of the New tertiary board Based on Factor Analysis and Logistic Regression*](https://doi.org/10.2991/icemse-16.2016.6) |   <a href="https://doi.org/10.1109/spac.2017.8304248" target="_blank"><img alt="DOI" width ='500px' src="https://img.shields.io/badge/DOI:-10.2991/icemse&#151;16.2016.6-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Proceedings of the 2016 International Conference on Education, Management Science and Economics](https://www.atlantis-press.com/proceedings/icemse-16/articles)** |
     
 </details>
 
