@@ -39,9 +39,10 @@
 #### BIO
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+    <tr><td><img src="https://image.flaticon.com/icons/svg/484/484531.svg" height="13"> English</a></td></tr>
+    <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+    <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
 - 🏢 I'm currently working at **Jilin University of Finance and Economics** <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/> China
