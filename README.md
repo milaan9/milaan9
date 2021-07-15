@@ -2,7 +2,7 @@
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=milaan9" alt="milaan9"/>       
-    <img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/>  
+    <a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/milaan9" alt="milaan9"/></a> 
     <img src="https://badges.pufler.dev/years/milaan9" alt="milaan9"/>  
     <img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="milaan9"/>   
     <a href="https://github.com/milaan9?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/milaan9?color=green&logo=github"></a>
