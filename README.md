@@ -85,10 +85,11 @@
 |01.| *An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory* |   [![DOI:10.1155/2021/6666619](http://img.shields.io/badge/DOI-10.1155/2021/6666619-0099ff.svg)](https://doi.org/10.1155/2021/6666619) | <a href="https://www.hindawi.com/journals/complexity" target="_blank"><img alt="Complexity" src="https://img.shields.io/badge/Complexity-blue"></a>  |
     
  <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="DOI" src="https://img.shields.io/badge/Complexity-blue"></a>
+ 
+ <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="DOI" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>
     
 2. Stock price forecasting based on LLE-BP neural network model
-
-- <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="Complexity" src="An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory"></a>
+    
     
 📃 Conference Proceedings
 1. [![DOI:10.1155/2021/6666619](http://img.shields.io/badge/DOI-10.1155/2021/6666619-0099ff.svg)](https://doi.org/10.1155/2021/6666619)   
