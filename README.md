@@ -80,9 +80,9 @@
 📜Journal Articles
 1. [*An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory*](https://doi.org/10.1155/2021/6666619) <a href="https://www.hindawi.com/journals/complexity" target="_blank"><img alt="Complexity" src="https://img.shields.io/badge/Complexity-blue"></a>  [![DOI:10.1155/2021/6666619](http://img.shields.io/badge/DOI-10.1155/2021/6666619-0099ff.svg)](https://doi.org/10.1155/2021/6666619) 
     
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
-|-------------|-------------------|---|---|
-| [**Port Scanner**](https://github.com/vinitshahdeo/PortScanner) | [![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?color=green&logo=github&style=flat)](https://github.com/vinitshahdeo/PortScanner/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=flat&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/vinitshahdeo/PortScanner?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls?q=is%3Apr+is%3Aclosed)  | 
+|      Title   |     DOI    |   Journal  |
+|--------------|------------|------------|
+| *An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory* | [![DOI:10.1155/2021/6666619](http://img.shields.io/badge/DOI-10.1155/2021/6666619-0099ff.svg)](https://doi.org/10.1155/2021/6666619) (https://github.com/vinitshahdeo/PortScanner/issues) | <a href="https://www.hindawi.com/journals/complexity" target="_blank"><img alt="Complexity" src="https://img.shields.io/badge/Complexity-blue"></a>  |
     
     
 2. Stock price forecasting based on LLE-BP neural network model
