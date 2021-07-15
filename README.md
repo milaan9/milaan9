@@ -81,7 +81,7 @@
 📜Journal Articles
      
 |No.|   Title   |    DOI    |  Journal  |
-|-------|-----------|-----------|-----------|
+|---|-----------|-----------|-----------|
 |01| [*An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory (2021)*](https://doi.org/10.1155/2021/6666619) |   <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1155/2021/6666619-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Complexity](https://www.hindawi.com/journals/complexity)** |
 |02| [*Stock price forecasting based on LLE-BP neural network model (2020)*](https://doi.org/10.1016/j.physa.2020.124197) |   <a href="https://doi.org/10.1016/j.physa.2020.124197" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.physa.2020.124197-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications)** |    
 |03| [*REDPC: A residual error-based density peak clustering algorithm (2019)*](https://doi.org/10.1016/j.neucom.2018.06.087) |   <a href="https://doi.org/10.1016/j.neucom.2018.06.087" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.neucom.2018.06.087-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)** |     
@@ -97,16 +97,16 @@
 <br>  
     
 📃 Conference Proceedings
-|Sr. No.|  Title  |  DOI  | Conference |
-|-------|---------|-------|------------|
+|No.|  Title  |  DOI  | Conference |
+|---|---------|-------|------------|
 |01| [*A novel density peak clustering algorithm based on squared residual error (2017)*](https://doi.org/10.1109/spac.2017.8304248) |   <a href="https://doi.org/10.1109/spac.2017.8304248" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1109/spac.2017.8304248-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[2017 International Conference on Security, Pattern Analysis, and Cybernetics (SPAC)](https://ieeexplore.ieee.org/xpl/conhome/8300290/proceeding)** |
 |02| [*A Prediction of Financial Distress for Listed Companies of the New tertiary board Based on Factor Analysis and Logistic Regression (2016)*](https://doi.org/10.2991/icemse-16.2016.6) |   <a href="https://doi.org/10.1109/spac.2017.8304248" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.2991/icemse&#8722;16.2016.6-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Proceedings of the 2016 International Conference on Education, Management Science and Economics](https://www.atlantis-press.com/proceedings/icemse-16/articles)** |
 
 <br>     
     
 📖 Book Chapter
-|Sr. No.|  Title  |  DOI  | Book Chapter |
-|-------|---------|-------|--------------|
+|No.|  Title  |  DOI  | Book Chapter |
+|---|---------|-------|--------------|
 |01| [*Parameters Estimation of Regression Model Based on the Improved AFSA (2017)*](https://doi.org/10.1007/978-3-319-49568-2_3) |   <a href="https://doi.org/10.1007/978-3-319-49568-2_3" target="_blank"><img alt="DOI" width ='600px' src="https://img.shields.io/badge/DOI:-10.1007/978&#8722;3&#8722;319&#8722;49568&#8722;2&#95;3-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Recent Developments in Intelligent Systems and Interactive Applications](https://www.springer.com/gp/book/9783319495675)** |    
     
     
