@@ -37,6 +37,7 @@
     <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/197/197408.svg" height="15"> Russian ★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/3909/3909444.svg" height="15"> Hindi ★★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/197/197571.svg" height="15"> German ★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/197/197571.svg" height="15"> <img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"> ★</a></td></tr>
 </table>
 
 
