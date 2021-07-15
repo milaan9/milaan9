@@ -32,9 +32,10 @@
 
 <table align="right">
     <tc><td><img src="https://image.flaticon.com/icons/svg/3898/3898082.svg" width="25">Languages</a></td></tc>
-    <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://image.flaticon.com/icons/svg/197/197484.svg" height="15"> English</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/197/197375.svg" height="15"> Chinese</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/197/197408.svg" height="15"> Russian</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/3909/3909444.svg" height="15"> Hindi</a></td></tr>
 </table>
 
 
