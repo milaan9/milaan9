@@ -30,20 +30,18 @@
     <!--<a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>-->
 </p> 
 
-
-
-
-##### NOW
-- 🛠 Currently working on developing new clustering algorithms for autonomous pattern recognition
-
-#### BIO
-
 <table align="right">
     <tc><td><img src="https://image.flaticon.com/icons/svg/3898/3898082.svg" width="25">Languages</a></td></tc>
     <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
     <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
+
+
+##### NOW
+- 🛠 Currently working on developing new clustering algorithms for autonomous pattern recognition
+
+#### BIO
 
 - 🏢 I'm currently working at **Jilin University of Finance and Economics** <img src="https://image.flaticon.com/icons/svg/197/197375.svg" width="16"/> China
 - 🔭 My area of interest is in Data Analytics & Visulizations.
