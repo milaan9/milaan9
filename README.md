@@ -74,7 +74,7 @@
 </p>
 
 
-<details>
+
 <summary><samp>&#9776;</samp> Click for List of Publications </summary>
     
 #### 📜Journal Articles
@@ -86,7 +86,7 @@
     [![DOI](https://zenodo.org/badge/164469568.svg)](https://zenodo.org/badge/latestdoi/164469568)
     
     
-</details>
+
 
 
 <details>
