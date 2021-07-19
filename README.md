@@ -45,7 +45,7 @@
 
 #### BIO
 
-- 🏢 I'm currently working at **Jilin University of Finance and Economics**, China
+- 🏢 Lecturer at **Jilin University of Finance and Economics**, China
 - 🔭 My area of interest is in <img src="https://img.shields.io/badge/Data Analytics & Visualizations-magenta">
 - 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset, pretty cool huh!
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Deep Learning-red">
