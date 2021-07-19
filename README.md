@@ -46,8 +46,8 @@
 #### BIO
 
 - 🏢 Lecturer at **Jilin University of Finance and Economics**, China
-- 🔭 My area of interest is in <img src="https://img.shields.io/badge/Data Analytics & Visualizations-magenta">
-- 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset, pretty cool huh!
+- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Data Analytics & Visualizations-magenta">
+- 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset.
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Deep Learning-red">
 - <img align ='center' width ='25px' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> I’m looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-green"> and <img src="https://img.shields.io/badge/Data Mining-yellow"> 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ping me about **Machine Learning** and <img src="https://img.shields.io/badge/Data Science-brown">  and <img src="https://img.shields.io/badge/Data Visualization-blue"> with 🐍 Python (Tensorflow, Sckitlearn) and Matlab
