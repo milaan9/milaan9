@@ -41,7 +41,7 @@
 
 
 ##### NOW
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px"> Currently working on developing new clustering algorithms for autonomous pattern recognition
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28px"> Currently working on developing new clustering algorithms for autonomous pattern recognition
 
 #### BIO
 
