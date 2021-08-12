@@ -12,7 +12,8 @@
     <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
 </p> 
 
-:kotow
+/:kotow
+🐧
 
 <h3 align="center"> 
     <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I'am Dr. Milaan! A passionate Researcher cum Lecturer - Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
