@@ -17,22 +17,9 @@
     <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I'am Dr. Milaan! A passionate Researcher cum Lecturer - Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
 </h3> 
 
-<p align="center"> 
-    <a href="https://github.com/milaan9" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@milaan9-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/milaanparmar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-milaanparmar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Milan-Parmar" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-Milaan Parmar-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0002-7596-407X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-0000&#150;0002&#150;7596&#150;407X-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://publons.com/researcher/3190369/milan-parmar" target="_blank"><img alt="Milan Parmar" src="https://img.shields.io/badge/-Milan Parmar-336699?style=flat-square&logo=PUBLONS&logoColor=white"></a>
-    <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Milan Parmar" src="https://img.shields.io/badge/-Milan Parmar-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>   
-    <img alt="QQ" src="https://img.shields.io/badge/QQ -3086215265-0099ff?style=fflat-square&labelColor=FFD43B"></a>
-    <img alt="mobile" src="https://img.shields.io/badge/📱 -+8613756537093-white?style=fflat-square&labelColor=white"></a>
-    <a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/+79041599690-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white">
-    <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
-    <!--<a href="https://milaan9.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
-    <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
-    <!--<a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>-->
-</p> 
+<p align="center">   
 
+</p> 
 <p align="center"> 
     <a href="https://github.com/milaan9" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@milaan9-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/milaanparmar" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
@@ -45,6 +32,8 @@
     <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
     <!--<a href="https://milaan9.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
     <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
+    <!--<img alt="QQ" src="https://img.shields.io/badge/QQ -3086215265-0099ff?style=fflat-square&labelColor=FFD43B"></a>-->
+    <!--<img alt="mobile" src="https://img.shields.io/badge/📱 -+8613756537093-white?style=fflat-square&labelColor=white"></a>-->
     <!--<a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>-->
 </p> 
 
