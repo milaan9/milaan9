@@ -12,7 +12,7 @@
     <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
 </p> 
 
-/:kotow
+/ :kotow:
 🐧
 
 <h3 align="center"> 
