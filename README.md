@@ -24,8 +24,8 @@
     <a href="https://orcid.org/0000-0002-7596-407X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-0000&#150;0002&#150;7596&#150;407X-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
     <a href="https://publons.com/researcher/3190369/milan-parmar" target="_blank"><img alt="Milan Parmar" src="https://img.shields.io/badge/-Milan Parmar-336699?style=flat-square&logo=PUBLONS&logoColor=white"></a>
     <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Milan Parmar" src="https://img.shields.io/badge/-Milan Parmar-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>   
-    <img alt="QQ" src="https://img.shields.io/badge/QQ -3086215265-0099ff?style=fflat-square&labelColor=FFD43B"></a>
-    <img alt="mobile" src="https://img.shields.io/badge/📱 -+86 137 5653 7093-yellow?style=fflat-square&labelColor=white"></a>
+    <img alt="QQ" src="https://img.shields.io/badge/QQ -3086215265-0099ff?style=fflat-square&labelColor=FFBF00"></a>
+    <img alt="mobile" src="https://img.shields.io/badge/📱 -+86 137 5653 7093-yellow?style=fflat-square&labelColor=FFD43B"></a>
     <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
     <!--<a href="https://milaan9.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
     <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
