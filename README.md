@@ -12,8 +12,6 @@
     <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
 </p> 
 
-[Kotow] :[Kotow]:
-🐧 :penguin:
 
 <h3 align="center"> 
     <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I'am Dr. Milaan! A passionate Researcher cum Lecturer - Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
@@ -27,7 +25,8 @@
     <a href="https://publons.com/researcher/3190369/milan-parmar" target="_blank"><img alt="Milan Parmar" src="https://img.shields.io/badge/-Milan Parmar-336699?style=flat-square&logo=PUBLONS&logoColor=white"></a>
     <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Milan Parmar" src="https://img.shields.io/badge/-Milan Parmar-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>
     <img alt="WeChat" src="https://img.shields.io/badge/-milaanparmar9-4C1?style=flat-square&logo=wechat&logoColor=white"></a>
-    <img alt="Skype" src="https://img.shields.io/badge/milaan.09-blue?flat-square&logo=tencent&logoColor=white"></a>
+    <img alt="Skype" src="https://img.shields.io/badge/milaan.09-blue?flat-square&logo=skype&logoColor=white"></a>
+    <a href="https://wa.me/+79041599690" target="_blank"><img alt="WhatssApp" src="https://img.shields.io/badge/WhatsApp-%25D366.svg?&style=flat-square&logo=whatsapp&logoColor=white"></a>
     <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
     <!--<a href="https://milaan9.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
     <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
