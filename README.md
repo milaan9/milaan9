@@ -25,7 +25,7 @@
     <a href="https://publons.com/researcher/3190369/milan-parmar" target="_blank"><img alt="Milan Parmar" src="https://img.shields.io/badge/-Milan Parmar-336699?style=flat-square&logo=PUBLONS&logoColor=white"></a>
     <a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Milan Parmar" src="https://img.shields.io/badge/-Milan Parmar-4885ED?style=flat-square&logo=Google-Scholar&logoColor=white"></a>
     <img alt="WeChat" src="https://img.shields.io/badge/-milaanparmar9-4C1?style=flat-square&logo=wechat&logoColor=white"></a>   
-    <img alt="Skype" src="https://img.shields.io/badge/🐧QQ: milaan.09-blue?flat-square&logo=&logoColor=white"></a>
+    <img alt="QQ" src="https://img.shields.io/badge/<b>QQ</b>:milaan.09-blue?flat-square&logo=qq&logoColor=white"></a>
     <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
     <!--<a href="https://milaan9.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
     <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
