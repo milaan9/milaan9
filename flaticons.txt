@@ -3,6 +3,7 @@ EN:
 CN: https://image.flaticon.com/icons/svg/197/197375.svg
 IN: https://image.flaticon.com/icons/svg/3909/3909444.svg
 RU: https://image.flaticon.com/icons/svg/197/197408.svg
+GE: https://image.flaticon.com/icons/svg/197/197571.svg
 
 .gif
 Earth: https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif
