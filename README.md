@@ -43,7 +43,7 @@
     <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Chinese ★★☆</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Russian ★★☆</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/3909/3909444.svg" height="15"> Hindi ★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/197/197571.svg" height="15"> German ★☆☆</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> German ★☆☆</a></td></tr>
 </table>
 
 
