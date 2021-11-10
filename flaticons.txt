@@ -1,0 +1,27 @@
+.svg
+EN: 
+CN: https://image.flaticon.com/icons/svg/197/197375.svg
+IN: https://image.flaticon.com/icons/svg/3909/3909444.svg
+RU: https://image.flaticon.com/icons/svg/197/197408.svg
+
+.gif
+Earth: https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif
+Developer: https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif
+Coronavirus:
+https://github.com/vinitshahdeo/COVID19/blob/master/img/corona.gif
+Letterbox:
+https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif
+Lightening:
+https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif
+Message:
+https://github.com/SP-XD/SP-XD/blob/main/images/message.gif
+Hyperkitty:
+https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif
+Sunglasses:
+https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430
+
+
+
+
+
+
