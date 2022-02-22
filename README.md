@@ -80,20 +80,8 @@
     <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 </p>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
-  <g id="fa-internal-link">
-    <g fill="none" stroke="#000" stroke-width="1px">
-      <path id="fa-internal-link-box-border" d="m 8 3.5 h -4.5 v 8 h 8 l 0 -4.5" />
-      <g id="fa-internal-link-arrow">
-        <path id="fa-internal-link-arrow-head" d="m 5.5 6 v 3.5 h 3.5" />
-        <path id="fa-internal-link-arrow-tail" d="m 10 5 -4.5 4.5" />
-      </g>
-    </g>
-  </g>
-</svg>
-
 <details>
-<summary><samp>&#9776;</samp> Click for List of Publications <i>(click to expand)(WES verified link) \faExternalLink* </i> </summary>
+<summary><samp>&#9776;</samp> Click for List of Publications <i>(click to expand) 🔗 </i> </summary>
 <br>  
     
 📜Journal Articles
