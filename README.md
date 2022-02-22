@@ -82,7 +82,7 @@
 
 
 <details>
-<summary><samp>&#9776;</samp> Click for List of Publications <i>(click to expand)(WES verified link) $\faExternalLink$ </i> </summary>
+<summary><samp>&#9776;</samp> Click for List of Publications <i>(click to expand)(WES verified link) \faExternalLink* </i> </summary>
 <br>  
     
 📜Journal Articles
