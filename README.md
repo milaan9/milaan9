@@ -80,19 +80,17 @@
     <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 </p>
 
-<a href="...">
-<svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0
-0 48 48">
-<path d="M36 24c-1.2 0-2 0.8-2 2v12c0 1.2-0.8 2-2 2h-22c-1.2
-0-2-0.8-2-2v-22c0-1.2 0.8-2 2-2h12c1.2 0 2-0.8 2-2s-0.8-2-2-2h-12c-3.4
-0-6 2.6-6 6v22c0 3.4 2.6 6 6 6h22c3.4 0 6-2.6
-6-6v-12c0-1.2-0.8-2-2-2z"></path>
-<path d="M43.8 5.2c-0.2-0.4-0.6-0.8-1-1-0.2-0.2-0.6-0.2-0.8-0.2h-12c-1.2
-0-2 0.8-2 2s0.8 2 2 2h7.2l-18.6 18.6c-0.8 0.8-0.8 2 0 2.8 0.4 0.4 0.8
-0.6 1.4 0.6s1-0.2 1.4-0.6l18.6-18.6v7.2c0 1.2 0.8 2 2 2s2-0.8
-2-2v-12c0-0.2 0-0.6-0.2-0.8z"></path>
-</svg> 
-</a>
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <g id="fa-internal-link">
+    <g fill="none" stroke="#000" stroke-width="1px">
+      <path id="fa-internal-link-box-border" d="m 8 3.5 h -4.5 v 8 h 8 l 0 -4.5" />
+      <g id="fa-internal-link-arrow">
+        <path id="fa-internal-link-arrow-head" d="m 5.5 6 v 3.5 h 3.5" />
+        <path id="fa-internal-link-arrow-tail" d="m 10 5 -4.5 4.5" />
+      </g>
+    </g>
+  </g>
+</svg>
 
 <details>
 <summary><samp>&#9776;</samp> Click for List of Publications <i>(click to expand)(WES verified link) \faExternalLink* </i> </summary>
