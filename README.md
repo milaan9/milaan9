@@ -82,7 +82,7 @@
 
 
 <details>
-<summary><samp>&#9776;</samp> Click for List of Publications </summary>
+<summary><samp>&#9776;</samp> Click for List of Publications <i>(click to expand)</i> </summary>
 <br>  
     
 📜Journal Articles
@@ -121,7 +121,7 @@
 </details>
 
 <details>
-<summary><samp>&#9776;</samp> Click for GitHub Stats </summary>
+<summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
 <p align="center">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats">
     <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9"/>
