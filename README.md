@@ -70,9 +70,9 @@
     <a href="https://github.com/milaan9?tab=repositories&language=Jupyter Notebook" target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/milaan9/09_Python_NumPy_Module" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"></a>
     <a href="https://github.com/milaan9/10_Python_Pandas_Module" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest" target="_blank"><img alt="Ploty" src="https://img.shields.io/badge/Plotly-%233F4F7?style=flat-square&logo=scikit-learn&logoColor=white"></a>
+    <a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest" target="_blank"><img alt="Ploty" src="https://img.shields.io/badge/Plotly-%233F4F7?style=flat-square&logo=Plotly&logoColor=white"></a>
     <a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest" target="_blank"><img alt="ScikitLearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
-    <a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scikit-learn&logoColor=white"></a>
+    <a href="https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest" target="_blank"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=SciPy-learn&logoColor=white"></a>
     <a href="https://github.com/milaan9/10_Python_Pandas_Module" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>    
     <a href="https://github.com/milaan9?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-fb4f14?style=flat-square&logo=Mathworks&logoColor=white"></a>
     <a href="https://github.com/milaan9?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
