@@ -14,7 +14,7 @@
 
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hi, I'am Dr. Milaan! A passionate Researcher - Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> Hi, I'am Dr. Milaan! A passionate Researcher - Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
 </h3> 
 
 <p align="center">   
