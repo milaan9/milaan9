@@ -14,7 +14,7 @@
 
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> Hi, I'am Dr. Milaan! A passionate Researcher - Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> Hi, I'am Dr. Milaan! A passionate Researcher - Data Science & Machine Learning <img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="30"/>
 </h3> 
 
 <p align="center">   
@@ -48,7 +48,7 @@
 
 
 ##### NOW
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28px"> Currently working on developing new clustering algorithms for autonomous pattern recognition
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently working on developing new clustering algorithms for autonomous pattern recognition
 
 #### BIO
 
@@ -56,10 +56,10 @@
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Pattern Recognition-green"> and <img src="https://img.shields.io/badge/Anomaly Identification-red">
 - 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset.
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Deep Learning-brown">
-- <img align ='center' width ='27px' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-blue">
+- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to collaborate on *Open Source Projects* on <img src="https://img.shields.io/badge/Machine Learning-blue">
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ping me about <img src="https://img.shields.io/badge/Data Mining-yellow"> and <img src="https://img.shields.io/badge/Data Visualization-purple">
-- &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;&nbsp; Fun fact: Vegetarian🌿 | huge fan of Harry Potter🧙 | love feeding birds 🕊 | enjoy cooking and hosting dinner <img align ='center' width ='20px' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
-- <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; I enjoy listening music 🎧 going to gym 🏋️‍♂️ play badminton 🏸 and traveling <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">🏝️🗻🌄🗿<img align ='center' width ='20px' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
+- &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;&nbsp; Fun fact: Vegetarian🌿 | huge fan of Harry Potter🧙 | love feeding birds 🕊 | enjoy cooking and hosting dinner <img align ='center' width ='20' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
+- <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; I enjoy listening music 🎧 going to gym 🏋️‍♂️ play badminton 🏸 and traveling <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">🏝️🗻🌄🗿<img align ='center' width ='20px' src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18">
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-milaanparmar9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 
@@ -131,7 +131,7 @@
 
 
 <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50"></a>
 </h3> 
 <p align="center">
     <a href="https://www.linkedin.com/in/milaanparmar" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
