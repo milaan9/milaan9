@@ -53,7 +53,7 @@
 
 #### BIO
 
-- 🏢 Postdoctoral Associate at **Mississippi State University**
+- 🏢 Lecturer at **University of Tennessee**
 - 🔭 Area of interest is in <img src="https://img.shields.io/badge/Pattern Recognition-green"> and <img src="https://img.shields.io/badge/Anomaly Identification-red">
 - 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset.
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> and <img src="https://img.shields.io/badge/Cyber Security-008080">
